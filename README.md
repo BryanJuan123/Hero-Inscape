@@ -7,8 +7,8 @@ vs code + readme.md #título
 imagem slva no repositório
 abrir o terminal
 acessar pasta d repositório
-parte 2
 
+parte 2
 git status vermelho.md
 git add .
 git status verde.md
